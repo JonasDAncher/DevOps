@@ -2,7 +2,7 @@
 
 
 ## 07-02-23:
-2to3 test file
+2to3 test file \n
 "man" $1 to read howto
 2>&1 error logging "uses standard error output"
 "which python" which finds a a command, with python after it finds the python bin you have and use, this just makes it so you run the correct python version
