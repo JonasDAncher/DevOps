@@ -1,7 +1,7 @@
 # Notes file!
 
 
-# 07-02-23:
+## 07-02-23:
 2to3 test file
 "man" $1 to read howto
 2>&1 error logging "uses standard error output"
