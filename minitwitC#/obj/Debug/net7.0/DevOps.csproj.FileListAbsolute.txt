@@ -1,0 +1,15 @@
+C:\Users\Anche\Documents\GitHub\DevOps\bin\Debug\net7.0\DevOps.exe
+C:\Users\Anche\Documents\GitHub\DevOps\bin\Debug\net7.0\DevOps.deps.json
+C:\Users\Anche\Documents\GitHub\DevOps\bin\Debug\net7.0\DevOps.runtimeconfig.json
+C:\Users\Anche\Documents\GitHub\DevOps\bin\Debug\net7.0\DevOps.dll
+C:\Users\Anche\Documents\GitHub\DevOps\bin\Debug\net7.0\DevOps.pdb
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\DevOps.csproj.AssemblyReference.cache
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\DevOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\DevOps.AssemblyInfoInputs.cache
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\DevOps.AssemblyInfo.cs
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\DevOps.csproj.CoreCompileInputs.cache
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\DevOps.dll
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\refint\DevOps.dll
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\DevOps.pdb
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\DevOps.genruntimeconfig.cache
+C:\Users\Anche\Documents\GitHub\DevOps\obj\Debug\net7.0\ref\DevOps.dll
