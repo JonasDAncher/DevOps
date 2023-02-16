@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Chrisitan\Desktop\master\DevOps\DevOps\Blazor\MiniTwit\MiniTwit\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Chrisitan\Desktop\master\DevOps\DevOps\Blazor\MiniTwit\MiniTwit\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
